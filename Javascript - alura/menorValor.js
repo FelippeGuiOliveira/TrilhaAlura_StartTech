@@ -14,4 +14,6 @@ function menorValor(arrProdutos, posicaoInicial) {
     return maisBarato;
 }
 
+// teste da função
+// console.log(menorValor(livros, 0)); 
 module.exports = menorValor;
